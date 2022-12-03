@@ -1,0 +1,190 @@
+.welcome  {
+  background-color: lightblue;
+  color: red;
+  text-align: center;
+  background-size: contain;
+   margin: ; 
+}
+.para{
+  text-align: center;
+}
+.container{
+  
+align: center;
+
+
+}
+.clock{
+  float: right;
+}
+.app{
+  float: right;
+  margin-right: 50px;
+  background-color: rgb(100, 200, 0);
+  color: purple;
+}
+
+
+
+///////////////////////////////////////////////////
+.softhead{
+background-color: goldenrod;
+}
+
+.heading {
+  text-align: center;
+  font-size: 2em;
+  color: #2d3436;
+  margin: 20px 0 30px;
+}
+
+.card {
+  border-radius: 25px;
+  position: relative;
+  padding: 25px 15px;
+  background-color: #81ecec;
+  margin: 50px 0;
+  height: 200px;
+  box-shadow: 0 2px 5px #ccc;
+  text-align: left;
+}
+
+.top {
+  border-radius: 25px 25px 0 0;
+  height: 100px;
+  width: 100%;
+  background-color: #00cec9;
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+}
+
+.name {
+  font-size: 2em;
+  color: #2d3436;
+  display: flex;
+  flex: 1;
+  margin: 10% 20px 0;
+}
+
+.card img {
+  margin: 30px 20px 0 0;
+}
+
+.circle-img {
+  border-radius: 50%;
+  border: 7px solid #fff;
+  width: 120px;
+  height: 120px;
+}
+
+.bottom {
+  margin-top: 120px;
+}
+
+.info {
+  margin: 20px 0;
+  color: #1a7e76;
+}
+
+
+
+
+
+.card {
+ 
+  color: red;
+  text-decoration: none;
+  padding: 15px 26px;
+  position: relative;
+  display: inline-block;
+  border-radius: 2px;
+
+}
+.card.reverse{
+    color: yellow;
+    background-color: goldenrod;
+  text-decoration: none;
+  padding: 15px 26px;
+  position: relative;
+  display: inline-block;
+  border-radius: 2px;
+  align: center;
+}
+.card.reverse:hover{
+  background: blue;
+}
+.card.close{
+   border-radius: 30%;
+  background: burlywood;
+}
+.card:hover {
+  background: greenyellow;
+}
+
+.num-display{
+  position: absolute;
+  top: -10px;
+  right: -10px;
+  padding: 5px 10px;
+  border-radius: 50%;
+  background: green;
+  color: white;
+}
+.close{
+  border-radius: 30%;
+  background: burlywood;
+}
+.btn-primary{
+  background-color:yellow;
+  color: red;
+}
+.btn-secondary{
+  background-color:blueviolet;
+  color: yellow;
+}
+.create{
+  align: center;
+  float: right;
+
+}
+.profileuser{
+  height: 650px;
+  width: 400px;
+  overflow: scroll;
+  margin-left: 400px;
+  border: solid 5px;
+  border-color: blue;
+
+}
+
+#scrolltop{
+    height:700px;
+  width: 600px;
+  overflow: scroll;
+ 
+  border: 5px;
+  border:2px solid blue;
+  background-color: red;
+  overflow:auto;
+}
+#navli{
+  height: 700px;
+  width: 200px;
+  background-color: navajowhite ;
+  color: red;
+}
+.clock{
+  float: right;
+margin-right: 50px;
+}
+.laylink:hover{
+   background-color: lightgoldenrodyellow;
+   
+   
+}
+.active{
+  background: yellow;
+  color: red;
+}
